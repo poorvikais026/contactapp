@@ -1,0 +1,58 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+font-size: 40px;
+    text-align: center;
+    color: maroon;
+}
+
+#update {
+    display: none;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+
+}
+
+th {
+    background-color: firebrick;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+}
+
+tr {
+    background-color: gainsboro;
+}
+
+tr:nth-child(even) {
+    background-color: #c0c0c0;
+}
+
+tr:hover {
+    background-color: #a9a9a9;
+    color: darkmagenta;
+}
+
+th:hover {
+    color: black;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+input {
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+}
+button{
+    background-color: antiquewhite;
+}
